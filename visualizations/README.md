@@ -19,7 +19,7 @@ Displays the five most popular genres in the Netflix catalog.
 ---
 
 ## 3. Movie Duration Comparison Across Genres
-![Movie Duration Across Genres](MovieDurationAcrossGenres.png)
+![Movie Duration Across Genres](MovieDurationAcrossGenress.png)
 
 Compares movie length distributions across different genres using box plots.
 
